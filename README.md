@@ -40,7 +40,7 @@ If you'd like to get a local copy up and running, just follow these steps.
 
 1.  **Clone the repo:**
     ```sh
-    git clone https://github.com/bmsitieeePES/ieeepes.git
+    git clone https://github.com/bmsitieeepes/ieeepes.git
     ```
 2.  **Go into the project directory:**
     ```sh
