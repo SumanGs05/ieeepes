@@ -1,4 +1,4 @@
-// src/components/team/Team.tsx
+
 import React, { useState } from 'react';
 import { FaLinkedin } from 'react-icons/fa';
 import '../../css/team.css';
