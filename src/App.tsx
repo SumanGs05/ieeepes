@@ -3,8 +3,8 @@
 import Vision from './components/vision';
 import WhyJoin from './components/whyjoin';
 
-import Activities from './components/activities/Activities';  // Note the capital A
-import Team from './components/team/Team';  // Note the capital T
+import Activities from './components/activities/Activities';
+import Team from './components/team/Team';  
 import About from './components/about';
 import Footer from './components/footer';
 import Hero from './components/hero';
